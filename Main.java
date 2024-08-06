@@ -7,5 +7,9 @@ public class Main {
     uno.imprimirMatriz();
     uno.rellenarColumnaConNumero(0, 5);
     uno.imprimirMatriz();
+
+    uno.rellenarConCeros();
+    uno.imprimirMatriz();
+
   }
 }
